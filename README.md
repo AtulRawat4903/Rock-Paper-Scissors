@@ -12,9 +12,8 @@ A browser-based Rock Paper Scissors game built with HTML, CSS, and JavaScript. P
 * Buttons disabled when the game ends
 * Responsive, modern dark-themed UI
 
-## 🖥️ Demo
-
-Open `index.html` in any modern web browser to play.
+## ▶️ Live Demo
+https://atulrawat4903.github.io/Odin-Rock-Paper-Scissors/
 
 ## 🎮 How to Play
 
