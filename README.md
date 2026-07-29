@@ -65,3 +65,7 @@ This project helped me practice:
 * Conditional logic
 * CSS styling and layout
 * Git branching and pull request workflows
+
+## 🎯 Acknowledgements
+
+This project was completed as part of **The Odin Project** curriculum.
