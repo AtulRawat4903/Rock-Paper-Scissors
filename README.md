@@ -13,7 +13,8 @@ A browser-based Rock Paper Scissors game built with HTML, CSS, and JavaScript. P
 * Responsive, modern dark-themed UI
 
 ## ▶️ Live Demo
-https://atulrawat4903.github.io/Odin-Rock-Paper-Scissors/
+
+https://atulrawat4903.github.io/Rock-Paper-Scissors/
 
 ## 🎮 How to Play
 
