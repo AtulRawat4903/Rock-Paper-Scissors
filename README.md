@@ -1,6 +1,6 @@
 # ✊ Rock Paper Scissors
 
-A browser-based Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play against the computer by clicking buttons, track the score in real time, and keep playing until one player reaches 5 points.
+A Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play against the computer by clicking buttons, track the score in real time, and keep playing until one player reaches 5 points.
 
 ## 🚀 Features
 
